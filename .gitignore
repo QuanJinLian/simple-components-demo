@@ -5,6 +5,4 @@ bin
 /.idea
 .vscode
 package-lock.json
-*.css
-*.css.map
 *.scssc
