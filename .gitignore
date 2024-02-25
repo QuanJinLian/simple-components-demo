@@ -6,3 +6,4 @@ bin
 .vscode
 package-lock.json
 *.scssc
+.DS_Store
